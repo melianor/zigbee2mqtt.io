@@ -30,6 +30,8 @@ Uses CR2032 battery.
 
 ### Pairing
 Press and hold the reset button by pressing hard on the top of the device (water drop logo) for +- 5 seconds (until the blue light inside the device, under the water drop starts blinking). After this the device will automatically join.
+
+After pairing press the water symbol once, so that the values from the entities are updated from unknown.
 <!-- Notes END: Do not edit below this line -->
 
 
